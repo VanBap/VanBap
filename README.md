@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VanBap
-- 📫 How to reach me: contact me through an email: vanbap20021599@gmail.com
+- 📫 Contact: vanbap20021599@gmail.com
 
 <!---
 VanBap/VanBap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
